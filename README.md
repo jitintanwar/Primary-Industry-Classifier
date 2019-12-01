@@ -26,4 +26,4 @@ Preprocessing the data (bd_preprocess.py)
 	Store cleaned BDs as a pickle object.
 *Step 4*
 
-	Apply ML classification algo to solve.
+	Apply ML classification algorithms to solve the problem.
