@@ -1,6 +1,6 @@
-Supervised multi-class classification problem.
+It is a Supervised multi-class classification problem where the solution deals in identifying the primary industry of a company by reading the business description. It involves data cleaning, preprocessing of text, removing noiose from the data etc. Following steps were performed in building the solution.
 
-Step 1 (Have to be performed manually)
+#Step 1 (Have to be performed manually)
 performed in code/datacleaning.py
 
 	Cleaning the data in excel file.
